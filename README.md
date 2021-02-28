@@ -1,2 +1,3 @@
-# Digital Image Processing
-## Histogram Transformation
+# Digital Image Processing / Part 1
+### Histogram Transformation
+
