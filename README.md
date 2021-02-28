@@ -1,1 +1,2 @@
-# DIP
+# Digital Image Processing
+## Histogram Transformation
